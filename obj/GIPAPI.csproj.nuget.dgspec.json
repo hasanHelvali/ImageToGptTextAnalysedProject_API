@@ -45,6 +45,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Betalgo.OpenAI.GPT3": {
+              "target": "Package",
+              "version": "[6.8.4, )"
+            },
+            "IronOcr": {
+              "target": "Package",
+              "version": "[2023.12.34, )"
+            },
+            "IronOcr.Languages.Turkish": {
+              "target": "Package",
+              "version": "[2020.11.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

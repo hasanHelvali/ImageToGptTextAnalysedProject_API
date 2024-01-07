@@ -2,5 +2,8 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\6.0.0\build\Microsoft.Extensions.Logging.Abstractions.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\6.0.0\build\Microsoft.Extensions.Logging.Abstractions.targets')" />
+    <Import Project="$(NuGetPackageRoot)ironocr\2023.12.34\buildTransitive\netstandard2.0\IronOcr.targets" Condition="Exists('$(NuGetPackageRoot)ironocr\2023.12.34\buildTransitive\netstandard2.0\IronOcr.targets')" />
+    <Import Project="$(NuGetPackageRoot)ironocr.languages.turkish\2020.11.2\build\IronOcr.Languages.Turkish.targets" Condition="Exists('$(NuGetPackageRoot)ironocr.languages.turkish\2020.11.2\build\IronOcr.Languages.Turkish.targets')" />
   </ImportGroup>
 </Project>

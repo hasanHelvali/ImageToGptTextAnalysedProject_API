@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "e3fopgg+ttiUP2yFdzU/AQlY+ak3gtaSeLwmQobZIIc=",
+  "Hash": "Z4mN2D2WaV3gjagwJ4m8QGm/LFzNsCmBEtz9pLqWIf8=",
   "Source": "GIPAPI",
   "BasePath": "_content/GIPAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GIPAPI\\wwwroot",
+      "Source": "GIPAPI",
+      "ContentRoot": "C:\\Users\\Hasan_Helvali\\Desktop\\GoruntuIslemeProje\\GIPAPI\\wwwroot\\",
+      "BasePath": "_content/GIPAPI",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

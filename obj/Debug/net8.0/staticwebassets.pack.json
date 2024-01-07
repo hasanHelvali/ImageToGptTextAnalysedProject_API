@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hasan_Helvali\\Desktop\\GoruntuIslemeProje\\GIPAPI\\wwwroot\\images\\103092597.jpg",
+      "PackagePath": "staticwebassets\\images\\103092597.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hasan_Helvali\\Desktop\\GoruntuIslemeProje\\GIPAPI\\wwwroot\\images\\1075803100.jpg",
+      "PackagePath": "staticwebassets\\images\\1075803100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hasan_Helvali\\Desktop\\GoruntuIslemeProje\\GIPAPI\\wwwroot\\images\\1589948884.jpg",
+      "PackagePath": "staticwebassets\\images\\1589948884.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hasan_Helvali\\Desktop\\GoruntuIslemeProje\\GIPAPI\\wwwroot\\images\\2076392704.jpg",
+      "PackagePath": "staticwebassets\\images\\2076392704.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hasan_Helvali\\Desktop\\GoruntuIslemeProje\\GIPAPI\\wwwroot\\images\\374668660.jpg",
+      "PackagePath": "staticwebassets\\images\\374668660.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hasan_Helvali\\Desktop\\GoruntuIslemeProje\\GIPAPI\\wwwroot\\images\\625273214.jpeg",
+      "PackagePath": "staticwebassets\\images\\625273214.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hasan_Helvali\\Desktop\\GoruntuIslemeProje\\GIPAPI\\wwwroot\\images\\659127057.jpeg",
+      "PackagePath": "staticwebassets\\images\\659127057.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Hasan_Helvali\\Desktop\\GoruntuIslemeProje\\GIPAPI\\wwwroot\\images\\889468690.jpg",
+      "PackagePath": "staticwebassets\\images\\889468690.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hasan_Helvali\\Desktop\\GoruntuIslemeProje\\GIPAPI\\wwwroot\\images\\995407412.jpg",
+      "PackagePath": "staticwebassets\\images\\995407412.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GIPAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GIPAPI.props",
+      "PackagePath": "build\\GIPAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GIPAPI.props",
+      "PackagePath": "buildMultiTargeting\\GIPAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GIPAPI.props",
+      "PackagePath": "buildTransitive\\GIPAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
